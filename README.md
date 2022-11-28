@@ -6,7 +6,7 @@ Gather papers and codes around Quantum-Graphity / background-independent-spin-sy
 In the Quantum Graphity approach to Quantum Graivty, originally formulated by Fontini Markopoulou, in collaboration with Tomasz Konopka and Lee Smolin,
 space and graivity emerge from a pre-geometric state that is modeled as a background-independent spin system in analogy with the Ising Model in 
 solid state physics. The idea is that the Big Bang was in fact a phase transition, termed geometrogenesis, in which a fully-connected graph representing
-the primordial elements of existence, begins to "turn off" edges, perhaps transfering the energy of the turned-off edges into matter, and eventually
+the primordial elements of existence, begins to "turn off" edges, perhaps transferring the energy of the turned-off edges into matter, and eventually
 transitioning into the three-dimensional space that we experience today in our universe. This approach provides an alternative to cosmic inflation for 
 solving the Horizon Problem because all points in our current spacetime were in contact prior to the birth of this current phase of the Universe via the fully connected graph.
 
